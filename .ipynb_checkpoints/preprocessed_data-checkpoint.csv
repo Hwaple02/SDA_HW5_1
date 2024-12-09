@@ -1,0 +1,597 @@
+Working_Year,Experience,Employment_Status,Employee_Location,Company_Location,Company_Size,Remote_Working_Ratio,Group,Salary_Million_Won,Employee_Continent,Company_Continent
+2020,MI,FT,DE,DE,L,0,Data Scientist,104,Europe,Europe
+2020,SE,FT,JP,JP,S,0,Machine Learning Engineer,341,Asia,Asia
+2020,SE,FT,GB,GB,M,50,Data Engineer,143,Europe,Europe
+2020,MI,FT,HN,HN,S,0,Data Analyst,26,North America,North America
+2020,SE,FT,US,US,L,50,Machine Learning Engineer,196,North America,North America
+2020,EN,FT,US,US,L,100,Data Analyst,94,North America,North America
+2020,MI,FT,HU,HU,L,50,Data Scientist,46,Europe,Europe
+2020,MI,FT,US,US,L,100,Data Analyst,177,North America,North America
+2020,SE,FT,NZ,NZ,S,50,Data Engineer,164,Oceania,Oceania
+2020,EN,FT,FR,FR,S,0,Data Scientist,67,Europe,Europe
+2020,MI,FT,IN,IN,L,0,Data Scientist,53,Asia,Asia
+2020,EN,FT,FR,FR,M,0,Data Scientist,52,Europe,Europe
+2020,MI,FT,US,US,L,100,Data Analyst,114,North America,North America
+2020,MI,FT,US,US,L,100,Data Analyst,111,North America,North America
+2020,MI,FT,PK,PK,L,50,Data Analyst,10,Asia,Asia
+2020,EN,FT,JP,JP,S,100,Data Engineer,54,Asia,Asia
+2020,SE,FT,PL,GB,S,100,Data Engineer,149,Europe,Europe
+2020,EN,FT,IN,IN,M,50,Data Scientist,7,Asia,Asia
+2020,MI,FT,PT,US,M,100,Data Engineer,73,Europe,North America
+2020,MI,FT,CN,CN,M,0,Machine Learning Engineer,56,Asia,Asia
+2020,MI,FT,IN,IN,L,100,Data Analyst,7,Asia,Asia
+2020,SE,FT,GR,GR,L,50,Data Engineer,62,Europe,Europe
+2020,MI,FT,US,US,M,0,Data Analyst,128,North America,North America
+2020,EX,FT,US,US,L,100,Data Scientist,426,North America,North America
+2020,EN,FT,NL,NL,L,50,Data Scientist,55,Europe,Europe
+2020,SE,FT,MX,MX,S,0,Data Engineer,43,North America,North America
+2020,EN,CT,US,US,L,100,Data Analyst,131,North America,North America
+2020,SE,FT,CA,CA,L,50,Machine Learning Engineer,153,North America,North America
+2020,MI,FT,DE,DE,S,100,Data Engineer,77,Europe,Europe
+2020,EN,FT,US,US,L,100,Data Engineer,91,North America,North America
+2020,SE,FT,GR,US,L,100,Data Scientist,89,Europe,North America
+2020,MI,FT,US,US,M,0,Data Scientist,590,North America,North America
+2020,MI,FT,FR,FR,L,50,Data Analyst,61,Europe,Europe
+2020,MI,FT,AT,AT,L,50,Data Engineer,97,Europe,Europe
+2020,MI,FT,US,US,L,100,Data Scientist,135,North America,North America
+2020,EN,FT,US,US,L,50,Machine Learning Engineer,328,North America,North America
+2020,EN,FT,NG,NG,S,100,Data Analyst,13,Africa,Africa
+2020,EN,FT,US,US,S,100,Machine Learning Engineer,181,North America,North America
+2020,MI,FT,PH,US,S,100,Data Scientist,60,Asia,North America
+2020,EX,FT,ES,ES,L,50,Data Engineer,104,Europe,Europe
+2020,MI,FT,PT,PT,M,0,Machine Learning Engineer,65,Europe,Europe
+2020,MI,FT,US,US,L,100,Data Engineer,139,North America,North America
+2020,MI,FT,GB,GB,L,50,Data Engineer,148,Europe,Europe
+2020,EN,PT,DE,DE,S,100,Machine Learning Engineer,20,Europe,Europe
+2020,MI,FT,GB,GB,S,100,Data Scientist,101,Europe,Europe
+2020,SE,FT,US,US,L,100,Data Engineer,246,North America,North America
+2020,MI,FT,US,US,L,100,Data Scientist,137,North America,North America
+2020,MI,FT,FR,FR,L,50,Data Engineer,92,Europe,Europe
+2020,EN,FT,IN,IN,S,0,Data Analyst,7,Asia,Asia
+2020,EN,FT,US,US,L,100,Data Analyst,119,North America,North America
+2020,EN,FT,DK,DK,S,50,Data Scientist,60,Europe,Europe
+2020,EN,FT,PK,DE,L,100,Data Engineer,71,Asia,Europe
+2020,SE,FL,RU,US,S,100,Computer Vision Engineer,78,Europe,North America
+2020,SE,FT,DE,DE,M,100,Data Scientist,194,Europe,Europe
+2020,MI,FT,ES,ES,M,100,Data Scientist,50,Europe,Europe
+2020,MI,FT,US,US,M,100,Data Scientist,154,North America,North America
+2020,SE,FT,US,US,L,50,Data Scientist,157,North America,North America
+2020,MI,FT,US,US,M,100,Data Scientist,181,North America,North America
+2020,MI,FT,US,US,L,100,Data Engineer,144,North America,North America
+2020,MI,FT,ES,US,M,100,Data Engineer,171,Europe,North America
+2020,EN,PT,IT,IT,S,50,Data Scientist,28,Europe,Europe
+2020,SE,FT,US,US,L,100,Data Scientist,540,North America,North America
+2020,SE,FT,HR,HR,S,100,Machine Learning Engineer,59,Europe,Europe
+2020,EN,FT,DE,DE,S,50,Data Scientist,82,Europe,Europe
+2020,EN,FT,DE,DE,S,0,Data Scientist,64,Europe,Europe
+2020,SE,FT,US,US,M,100,Data Scientist,249,North America,North America
+2020,EN,FT,US,US,S,100,Data Scientist,137,North America,North America
+2020,SE,FT,AT,AT,S,0,Data Scientist,119,Europe,Europe
+2020,MI,FT,FR,LU,S,50,Data Scientist,82,Europe,Europe
+2020,MI,FT,FR,FR,S,50,Data Scientist,55,Europe,Europe
+2021,EN,FT,GB,GB,L,50,Data Scientist,108,Europe,Europe
+2021,EX,FT,IN,US,L,100,Data Analyst,196,Asia,North America
+2021,SE,FT,FR,FR,L,50,Data Scientist,69,Europe,Europe
+2021,MI,FT,US,US,M,100,Data Analyst,131,North America,North America
+2021,MI,PT,IN,IN,M,50,Computer Vision Engineer,7,Asia,Asia
+2021,MI,CT,US,US,L,100,Machine Learning Engineer,354,North America,North America
+2021,EN,FT,US,US,M,100,Data Analyst,105,North America,North America
+2021,SE,FT,DE,DE,L,100,Data Analyst,103,Europe,Europe
+2021,MI,FT,US,US,L,100,Data Engineer,183,North America,North America
+2021,MI,FT,GB,CA,L,50,Data Scientist,71,Europe,North America
+2021,MI,FT,ES,ES,S,100,Machine Learning Engineer,62,Europe,Europe
+2021,EX,FT,IT,PL,L,100,Data Scientist,201,Europe,Europe
+2021,MI,FT,PL,PL,L,100,Data Engineer,37,Europe,Europe
+2021,EN,FT,FR,FR,M,50,Data Analyst,77,Europe,Europe
+2021,MI,FT,US,US,L,100,Data Analyst,144,North America,North America
+2021,SE,FT,US,US,L,100,Data Analyst,223,North America,North America
+2021,SE,FT,BG,US,S,100,Data Analyst,105,Europe,North America
+2021,SE,FT,GR,DK,L,100,Data Analyst,116,Europe,Europe
+2021,EN,FT,DE,DE,S,100,Data Scientist,100,Europe,Europe
+2021,MI,FT,IN,IN,L,100,Data Analyst,25,Asia,Asia
+2021,SE,FT,US,US,L,0,Data Engineer,362,North America,North America
+2021,EN,FT,IN,IN,L,50,Data Scientist,39,Asia,Asia
+2021,MI,FT,SG,SG,L,50,Data Engineer,117,Asia,Asia
+2021,EN,PT,BR,US,S,100,Data Scientist,15,South America,North America
+2021,MI,FT,US,US,L,100,Data Analyst,590,North America,North America
+2021,EN,FT,US,US,M,100,Computer Vision Engineer,91,North America,North America
+2021,MI,FT,DE,US,S,100,Computer Vision Engineer,125,Europe,North America
+2021,MI,FT,US,US,L,0,Data Analyst,98,North America,North America
+2021,SE,FT,US,US,L,100,Data Engineer,196,North America,North America
+2021,MI,FT,HU,US,L,50,Data Analyst,47,Europe,North America
+2021,MI,FT,US,US,L,0,Data Analyst,81,North America,North America
+2021,MI,FT,US,US,L,0,Data Scientist,95,North America,North America
+2021,MI,FT,GB,GB,L,50,Data Analyst,67,Europe,Europe
+2021,MI,FT,CA,CA,L,100,Data Scientist,246,North America,North America
+2021,SE,FT,US,US,S,100,Data Engineer,150,North America,North America
+2021,SE,FT,US,US,M,100,Data Engineer,196,North America,North America
+2021,EN,FT,IN,IN,L,100,Data Engineer,39,Asia,Asia
+2021,SE,FT,DE,DE,L,50,Machine Learning Engineer,124,Europe,Europe
+2021,SE,FT,GB,GB,S,100,Data Engineer,135,Europe,Europe
+2021,EN,PT,PK,US,M,100,Data Scientist,15,Asia,North America
+2021,MI,FT,NL,NL,L,100,Data Engineer,59,Europe,Europe
+2021,EN,FT,US,US,L,100,Machine Learning Engineer,295,North America,North America
+2021,MI,FT,NG,NG,L,100,Data Scientist,65,Africa,Africa
+2021,MI,FT,GR,GR,M,100,Data Scientist,52,Europe,Europe
+2021,EN,FT,US,US,S,100,Data Analyst,118,North America,North America
+2021,MI,FT,US,US,L,100,Data Engineer,262,North America,North America
+2021,MI,FT,ES,RO,M,50,Data Engineer,78,Europe,Europe
+2021,SE,FT,US,US,M,100,Data Engineer,262,North America,North America
+2021,EN,FT,US,US,M,100,Data Analyst,65,North America,North America
+2021,EN,FT,GB,GB,L,0,Data Scientist,144,Europe,Europe
+2021,EN,PT,ES,ES,M,50,Data Analyst,13,Europe,Europe
+2021,MI,FT,US,US,L,100,Data Scientist,198,North America,North America
+2021,SE,FT,US,US,S,50,Machine Learning Engineer,157,North America,North America
+2021,MI,FT,IN,IN,S,0,Data Scientist,12,Asia,Asia
+2021,EN,FT,IN,IN,S,100,Machine Learning Engineer,26,Asia,Asia
+2021,EN,FT,IQ,IQ,S,50,Machine Learning Engineer,131,Asia,Asia
+2021,EN,FT,FR,FR,M,50,Data Scientist,65,Europe,Europe
+2021,MI,FT,VN,US,M,100,Machine Learning Engineer,50,Asia,North America
+2021,SE,FT,BR,BR,M,100,Computer Vision Engineer,31,South America,South America
+2021,EN,FT,US,US,S,0,Data Scientist,131,North America,North America
+2021,MI,FT,US,US,M,100,Data Analyst,118,North America,North America
+2021,MI,FT,JP,JP,S,50,Machine Learning Engineer,83,Asia,Asia
+2021,MI,FT,JP,JP,S,50,Machine Learning Engineer,101,Asia,Asia
+2021,SE,FT,US,US,L,0,Data Scientist,288,North America,North America
+2021,EN,FT,US,US,M,100,Data Scientist,105,North America,North America
+2021,MI,FT,US,US,L,100,Data Analyst,177,North America,North America
+2021,SE,FT,US,US,L,0,Data Scientist,315,North America,North America
+2021,SE,FT,US,US,L,0,Data Engineer,196,North America,North America
+2021,MI,FT,US,US,S,100,Data Scientist,108,North America,North America
+2021,MI,FT,US,US,L,100,Data Engineer,131,North America,North America
+2021,SE,FT,BE,BE,M,50,Machine Learning Engineer,108,Europe,Europe
+2021,MI,FT,FR,FR,M,50,Data Scientist,82,Europe,Europe
+2021,MI,FT,US,US,L,100,Data Engineer,118,North America,North America
+2021,SE,FT,US,US,L,100,Data Engineer,200,North America,North America
+2021,SE,FT,BR,US,S,100,Data Engineer,210,South America,North America
+2021,SE,FT,JP,JP,S,0,Data Scientist,220,Asia,Asia
+2021,MI,FT,US,US,M,100,Data Scientist,196,North America,North America
+2021,MI,FT,CA,CA,L,100,Data Scientist,99,North America,North America
+2021,EN,FT,UA,UA,L,100,Data Scientist,17,Europe,Europe
+2021,SE,FT,US,US,L,100,Data Scientist,189,North America,North America
+2021,SE,FT,CA,CA,L,50,Data Scientist,167,North America,North America
+2021,MI,FT,SG,IL,M,100,Data Scientist,156,Asia,Asia
+2021,MI,FT,US,US,L,50,Machine Learning Engineer,555,North America,North America
+2021,SE,FT,US,US,M,100,Data Analyst,157,North America,North America
+2021,EN,FT,US,US,S,100,Machine Learning Engineer,164,North America,North America
+2021,EX,FT,RU,RU,M,0,Data Scientist,111,Europe,Europe
+2021,MI,FT,MT,MT,L,50,Data Engineer,37,Europe,Europe
+2021,EN,FT,DE,DE,L,50,Data Scientist,83,Europe,Europe
+2021,EX,FT,DE,DE,M,50,Data Scientist,170,Europe,Europe
+2021,SE,FT,US,US,L,100,Data Analyst,216,North America,North America
+2021,EN,FT,US,US,L,100,Data Engineer,105,North America,North America
+2021,EX,FT,US,US,L,0,Data Scientist,328,North America,North America
+2021,EN,FT,US,US,S,50,Data Analyst,72,North America,North America
+2021,MI,FT,US,US,L,100,Data Engineer,196,North America,North America
+2021,MI,FT,US,US,L,100,Data Engineer,223,North America,North America
+2021,MI,FT,GB,GB,L,100,Data Engineer,108,Europe,Europe
+2021,EN,FT,US,US,S,100,Data Analyst,78,North America,North America
+2021,SE,FT,US,US,L,100,Data Scientist,308,North America,North America
+2021,SE,FT,PT,PT,L,50,Data Scientist,79,Europe,Europe
+2021,SE,FT,US,US,L,100,Data Engineer,228,North America,North America
+2021,MI,FT,MX,MX,S,0,Data Scientist,3,North America,North America
+2021,MI,FT,CL,CL,L,100,Data Scientist,52,South America,South America
+2021,EN,FT,US,US,S,50,Machine Learning Engineer,106,North America,North America
+2021,MI,FT,IN,US,S,100,Data Scientist,7,Asia,North America
+2021,MI,FT,IN,IN,L,0,Data Engineer,29,Asia,Asia
+2021,MI,FT,DE,DE,L,50,Data Scientist,119,Europe,Europe
+2021,MI,FT,RO,US,L,0,Data Engineer,34,Europe,North America
+2021,MI,FL,PK,PK,M,50,Machine Learning Engineer,15,Asia,Asia
+2021,MI,FT,IR,IR,M,100,Data Engineer,5,Asia,Asia
+2021,SE,FT,VN,GB,M,100,Data Analyst,65,Asia,Europe
+2021,EX,FT,FR,ES,S,100,Data Scientist,91,Europe,Europe
+2021,SE,FT,RO,GB,S,50,Data Engineer,100,Europe,Europe
+2021,MI,FT,JP,JP,S,50,Machine Learning Engineer,97,Asia,Asia
+2021,SE,FT,US,FR,L,100,Data Scientist,199,North America,Europe
+2021,EN,FT,CO,CO,M,50,Machine Learning Engineer,28,South America,South America
+2021,MI,FT,MD,MD,S,0,Data Engineer,23,Europe,Europe
+2021,SE,FT,US,US,L,100,Data Scientist,228,North America,North America
+2021,SE,FT,CA,CA,L,50,Data Scientist,126,North America,North America
+2021,MI,FT,US,US,L,50,Data Scientist,192,North America,North America
+2021,EN,FT,KE,KE,S,100,Data Analyst,12,Africa,Africa
+2021,SE,FT,IN,IN,L,100,Machine Learning Engineer,31,Asia,Asia
+2021,SE,FT,IN,US,L,50,Data Scientist,71,Asia,North America
+2021,EN,FT,US,US,S,100,Data Scientist,118,North America,North America
+2021,MI,FT,DE,AT,M,50,Data Scientist,80,Europe,Europe
+2021,SE,FT,US,US,M,100,Machine Learning Engineer,256,North America,North America
+2021,MI,FT,ES,ES,L,100,Data Scientist,49,Europe,Europe
+2021,SE,FT,FR,US,S,100,Data Scientist,65,Europe,North America
+2021,MI,FT,US,US,L,100,Data Scientist,210,North America,North America
+2021,MI,FT,BR,BR,S,0,Data Scientist,16,South America,South America
+2021,SE,FT,US,US,L,100,Machine Learning Engineer,262,North America,North America
+2021,SE,FT,US,US,M,0,Data Engineer,216,North America,North America
+2021,MI,FL,IT,US,L,0,Data Engineer,26,Europe,North America
+2021,SE,FT,US,US,L,0,Data Analyst,157,North America,North America
+2021,MI,FT,SI,SI,L,50,Machine Learning Engineer,32,Europe,Europe
+2021,MI,FT,FR,FR,S,50,Data Scientist,74,Europe,Europe
+2021,MI,FT,HK,GB,S,50,Data Engineer,86,Asia,Europe
+2021,EN,FT,IN,CH,L,0,Data Engineer,7,Asia,Europe
+2021,EN,FT,DE,DE,M,50,Machine Learning Engineer,32,Europe,Europe
+2021,SE,FT,US,US,L,100,Data Engineer,242,North America,North America
+2021,EN,PT,DK,DK,S,50,Computer Vision Engineer,37,Europe,Europe
+2021,MI,FT,DE,DE,L,50,Data Scientist,119,Europe,Europe
+2021,MI,FT,BE,BE,M,100,Machine Learning Engineer,116,Europe,Europe
+2021,SE,FT,US,US,L,100,Data Analyst,183,North America,North America
+2021,MI,FT,PL,PL,L,100,Machine Learning Engineer,61,Europe,Europe
+2021,MI,FT,GB,GB,L,50,Data Scientist,153,Europe,Europe
+2021,MI,FT,IN,IN,M,0,Data Scientist,44,Asia,Asia
+2021,MI,FT,GB,GB,L,50,Data Scientist,73,Europe,Europe
+2021,SE,FT,US,CA,L,100,Machine Learning Engineer,295,North America,North America
+2021,EX,CT,US,US,S,100,Data Scientist,546,North America,North America
+2021,SE,FT,CA,CA,S,100,Data Scientist,115,North America,North America
+2021,MI,FT,DE,DE,L,50,Data Scientist,116,Europe,Europe
+2021,SE,FT,US,US,L,0,Data Scientist,177,North America,North America
+2021,SE,FT,CA,CA,M,100,Data Analyst,94,North America,North America
+2021,EN,FT,IN,IN,L,100,Data Engineer,21,Asia,Asia
+2021,SE,FT,US,US,S,100,Machine Learning Engineer,336,North America,North America
+2021,SE,FT,US,US,L,100,Data Analyst,262,North America,North America
+2021,MI,FT,US,US,L,100,Data Engineer,236,North America,North America
+2021,MI,FT,US,US,S,0,Data Scientist,144,North America,North America
+2021,MI,FT,CA,CA,M,100,Data Scientist,83,North America,North America
+2021,MI,FT,ES,ES,M,100,Data Scientist,61,Europe,Europe
+2021,EN,FT,VN,VN,M,0,Data Scientist,5,Asia,Asia
+2021,EN,FT,IN,IN,M,50,Data Engineer,28,Asia,Asia
+2021,SE,FT,CA,CA,L,100,Data Scientist,136,North America,North America
+2021,MI,FT,US,US,L,100,Data Analyst,105,North America,North America
+2021,MI,FT,US,US,L,100,Data Engineer,144,North America,North America
+2021,SE,FT,US,US,L,100,Data Scientist,216,North America,North America
+2021,EN,FT,IN,AS,S,100,Data Scientist,23,Asia,Oceania
+2021,MI,FT,GB,GB,L,50,Data Engineer,94,Europe,Europe
+2021,EN,FT,FR,FR,L,50,Data Scientist,48,Europe,Europe
+2021,MI,FT,TR,TR,M,0,Data Engineer,15,Asia,Asia
+2021,SE,FT,GB,GB,L,50,Data Engineer,126,Europe,Europe
+2021,SE,FT,US,US,M,100,Data Analyst,223,North America,North America
+2021,MI,FT,US,US,L,50,Data Scientist,150,North America,North America
+2021,EN,FT,US,US,S,100,Data Scientist,118,North America,North America
+2021,EX,FT,US,US,L,100,Data Engineer,787,North America,North America
+2021,EN,FT,IN,IN,M,100,Data Scientist,37,Asia,Asia
+2021,MI,FT,US,US,L,100,Data Analyst,122,North America,North America
+2021,SE,FT,CA,CA,M,50,Data Engineer,130,North America,North America
+2021,MI,FT,US,US,L,100,Data Engineer,262,North America,North America
+2021,SE,FT,DE,DE,M,100,Data Scientist,228,Europe,Europe
+2021,SE,FT,US,US,L,50,Machine Learning Engineer,242,North America,North America
+2021,EX,FT,DE,DE,L,0,Data Scientist,186,Europe,Europe
+2021,MI,FT,US,US,L,50,Data Scientist,170,North America,North America
+2021,SE,FT,DE,DE,L,50,Data Analyst,83,Europe,Europe
+2021,MI,FT,IN,IN,S,100,Data Scientist,22,Asia,Asia
+2021,SE,FT,IN,IN,L,0,Machine Learning Engineer,86,Asia,Asia
+2021,MI,FT,RS,DE,S,100,Data Scientist,33,Europe,Europe
+2021,SE,FT,PR,US,S,50,Data Engineer,210,North America,North America
+2021,MI,FT,US,US,M,0,Data Engineer,122,North America,North America
+2021,MI,FT,US,US,M,0,Data Engineer,146,North America,North America
+2021,MI,FT,TR,TR,M,100,Data Engineer,36,Asia,Asia
+2021,EN,FT,DE,DE,M,50,Data Engineer,85,Europe,Europe
+2021,EN,FT,US,US,L,100,Data Engineer,95,North America,North America
+2021,SE,FT,BR,BR,M,0,Computer Vision Engineer,24,South America,South America
+2021,EN,FT,DE,DE,L,0,Data Scientist,100,Europe,Europe
+2021,EN,FT,NL,DE,S,100,Machine Learning Engineer,111,Europe,Europe
+2021,SE,FT,FR,FR,M,50,Data Scientist,101,Europe,Europe
+2021,EN,FT,US,US,M,100,Data Scientist,131,North America,North America
+2021,EN,FT,US,US,L,50,Data Scientist,76,North America,North America
+2021,SE,FT,ES,ES,L,100,Data Scientist,72,Europe,Europe
+2021,SE,FT,TR,TR,L,50,Data Scientist,26,Asia,Asia
+2021,EN,FT,LU,LU,L,100,Data Analyst,77,Europe,Europe
+2021,MI,FT,US,US,L,100,Data Engineer,147,North America,North America
+2021,EN,FT,JE,CN,L,0,Data Scientist,131,Europe,Asia
+2021,MI,PT,NL,NL,L,100,Data Engineer,91,Europe,Europe
+2021,SE,CT,US,US,M,100,Data Scientist,137,North America,North America
+2021,MI,FT,CZ,CZ,L,50,Data Scientist,91,Europe,Europe
+2021,SE,FT,IN,IN,L,50,Data Scientist,124,Asia,Asia
+2021,MI,FT,US,US,L,50,Data Scientist,143,North America,North America
+2021,MI,FT,IT,IT,L,50,Machine Learning Engineer,67,Europe,Europe
+2022,SE,FT,US,US,M,100,Data Engineer,177,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,203,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,158,North America,North America
+2022,MI,FT,US,US,M,0,Data Scientist,170,North America,North America
+2022,MI,FT,US,US,M,0,Data Scientist,118,North America,North America
+2022,MI,FT,US,US,M,100,Data Engineer,223,North America,North America
+2022,MI,FT,US,US,M,100,Data Engineer,196,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,134,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,111,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,179,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,130,North America,North America
+2022,SE,FT,GB,GB,M,0,Data Scientist,154,Europe,Europe
+2022,SE,FT,GB,GB,M,0,Data Scientist,137,Europe,Europe
+2022,SE,FT,US,US,M,100,Data Scientist,191,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,161,North America,North America
+2022,EN,FT,GB,GB,M,100,Data Engineer,68,Europe,Europe
+2022,SE,FT,US,US,M,0,Data Analyst,129,North America,North America
+2022,SE,FT,US,US,M,0,Data Analyst,152,North America,North America
+2022,MI,FT,US,US,M,0,Data Analyst,139,North America,North America
+2022,MI,FT,US,US,M,0,Data Analyst,166,North America,North America
+2022,EX,FT,US,US,M,100,Data Engineer,317,North America,North America
+2022,EX,FT,US,US,M,100,Data Engineer,262,North America,North America
+2022,MI,FT,GB,GB,M,0,Data Scientist,85,Europe,Europe
+2022,MI,FT,GB,GB,M,0,Data Scientist,51,Europe,Europe
+2022,MI,FT,GB,GB,M,0,Data Engineer,103,Europe,Europe
+2022,MI,FT,GB,GB,M,0,Data Engineer,68,Europe,Europe
+2022,SE,FT,US,US,M,100,Data Scientist,216,North America,North America
+2022,EN,FT,GB,GB,M,100,Data Engineer,60,Europe,Europe
+2022,SE,FT,US,US,M,100,Data Scientist,157,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,118,North America,North America
+2022,SE,FT,US,US,M,0,Data Engineer,238,North America,North America
+2022,SE,FT,US,US,M,0,Data Engineer,173,North America,North America
+2022,SE,FT,US,US,M,0,Data Engineer,288,North America,North America
+2022,SE,FT,US,US,M,0,Data Engineer,210,North America,North America
+2022,SE,FT,US,US,L,0,Data Scientist,236,North America,North America
+2022,SE,FT,US,US,L,0,Data Scientist,157,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,163,North America,North America
+2022,EX,FT,US,US,M,100,Data Analyst,170,North America,North America
+2022,EX,FT,US,US,M,100,Data Analyst,144,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,223,North America,North America
+2022,MI,FT,US,US,M,100,Data Analyst,151,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,148,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,118,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,148,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,118,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,217,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,173,North America,North America
+2022,MI,FT,US,US,M,100,Data Analyst,219,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,320,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,179,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,143,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,169,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,123,North America,North America
+2022,EX,FT,US,US,M,100,Data Scientist,294,North America,North America
+2022,EX,FT,US,US,M,100,Data Scientist,220,North America,North America
+2022,EX,FT,US,US,M,100,Data Analyst,229,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,205,North America,North America
+2022,SE,FT,US,US,M,0,Data Engineer,142,North America,North America
+2022,SE,FT,US,US,M,0,Data Scientist,125,North America,North America
+2022,SE,FT,US,US,L,0,Data Engineer,148,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,177,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,211,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,180,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,219,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,161,North America,North America
+2022,SE,FT,GB,GB,M,0,Data Engineer,103,Europe,Europe
+2022,SE,FT,GB,GB,M,0,Data Engineer,85,Europe,Europe
+2022,SE,FT,US,US,M,0,Data Scientist,196,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,277,North America,North America
+2022,SE,FT,CA,CA,M,100,Data Engineer,252,North America,North America
+2022,SE,FT,CA,CA,M,100,Data Engineer,119,North America,North America
+2022,SE,FT,CA,CA,M,100,Data Analyst,170,North America,North America
+2022,SE,FT,CA,CA,M,100,Data Analyst,80,North America,North America
+2022,SE,FT,CA,CA,M,100,Data Analyst,170,North America,North America
+2022,SE,FT,CA,CA,M,100,Data Analyst,80,North America,North America
+2022,SE,FT,US,US,L,0,Data Engineer,210,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,181,North America,North America
+2022,SE,FT,US,US,M,0,Data Engineer,178,North America,North America
+2022,MI,FT,US,US,S,0,Data Analyst,76,North America,North America
+2022,EX,FT,US,US,M,100,Data Analyst,177,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,223,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,161,North America,North America
+2022,SE,FT,US,US,M,0,Machine Learning Engineer,248,North America,North America
+2022,SE,FT,US,US,M,0,Machine Learning Engineer,216,North America,North America
+2022,MI,FT,GR,GR,M,0,Data Engineer,72,Europe,Europe
+2022,MI,FT,GR,GR,M,0,Data Engineer,72,Europe,Europe
+2022,EX,FT,CA,CA,S,100,Data Engineer,155,North America,North America
+2022,SE,FT,US,US,M,0,Data Analyst,173,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,217,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,274,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,194,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,179,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,133,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,169,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,123,North America,North America
+2022,EX,FT,IN,IN,L,50,Machine Learning Engineer,103,Asia,Asia
+2022,SE,FT,US,US,M,100,Data Engineer,173,North America,North America
+2022,EN,FT,GB,GB,L,100,Machine Learning Engineer,48,Europe,Europe
+2022,SE,FT,US,US,M,0,Data Analyst,215,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,203,North America,North America
+2022,MI,FT,GB,GB,M,0,Machine Learning Engineer,163,Europe,Europe
+2022,MI,FT,GB,GB,M,0,Machine Learning Engineer,128,Europe,Europe
+2022,MI,FT,US,US,M,0,Data Scientist,157,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,148,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,118,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,190,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,138,North America,North America
+2022,MI,FT,FR,DE,M,100,Machine Learning Engineer,115,Europe,Europe
+2022,MI,FT,GB,GB,M,0,Data Engineer,154,Europe,Europe
+2022,SE,FT,US,US,L,100,Data Scientist,282,North America,North America
+2022,SE,FT,US,US,L,100,Data Scientist,207,North America,North America
+2022,SE,FT,US,US,L,100,Data Engineer,274,North America,North America
+2022,SE,FT,US,US,L,100,Data Engineer,202,North America,North America
+2022,SE,FT,US,US,M,0,Data Analyst,152,North America,North America
+2022,SE,FT,US,US,M,0,Data Analyst,107,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,229,North America,North America
+2022,MI,FT,GB,GB,M,0,Data Engineer,128,Europe,Europe
+2022,MI,FT,US,US,S,0,Data Analyst,76,North America,North America
+2022,SE,FT,US,US,L,100,Data Engineer,241,North America,North America
+2022,MI,FT,GB,GB,M,100,Data Analyst,68,Europe,Europe
+2022,SE,FT,US,US,M,100,Data Scientist,236,North America,North America
+2022,MI,FT,GB,GB,M,0,Data Scientist,94,Europe,Europe
+2022,MI,FT,GB,GB,M,0,Data Scientist,60,Europe,Europe
+2022,MI,FT,GR,GR,M,100,Data Engineer,86,Europe,Europe
+2022,MI,FT,GR,GR,M,100,Data Engineer,64,Europe,Europe
+2022,MI,FT,GB,GB,M,100,Data Engineer,103,Europe,Europe
+2022,MI,FT,GB,GB,M,100,Data Engineer,77,Europe,Europe
+2022,SE,FT,US,US,M,100,Data Scientist,341,North America,North America
+2022,SE,FT,AR,MX,L,100,Data Scientist,78,South America,North America
+2022,MI,FT,US,US,M,0,Data Engineer,83,North America,North America
+2022,MI,FT,US,US,L,100,Machine Learning Engineer,210,North America,North America
+2022,MI,FT,US,US,L,100,Machine Learning Engineer,147,North America,North America
+2022,MI,FT,US,US,M,100,Data Scientist,316,North America,North America
+2022,MI,FT,US,US,M,100,Data Scientist,208,North America,North America
+2022,SE,FT,US,US,M,0,Data Scientist,236,North America,North America
+2022,SE,FT,US,US,M,0,Data Scientist,105,North America,North America
+2022,MI,FT,US,US,M,0,Data Engineer,108,North America,North America
+2022,SE,FT,US,US,L,100,Data Engineer,132,North America,North America
+2022,MI,FT,ES,ES,M,100,Data Engineer,64,Europe,Europe
+2022,SE,FT,US,US,L,0,Data Scientist,184,North America,North America
+2022,MI,FT,GB,GB,M,100,Data Analyst,51,Europe,Europe
+2022,MI,FT,ES,ES,M,100,Data Analyst,57,Europe,Europe
+2022,MI,FT,ES,ES,M,100,Data Analyst,43,Europe,Europe
+2022,MI,FT,ES,ES,M,100,Data Engineer,115,Europe,Europe
+2022,MI,FT,ES,ES,M,100,Data Engineer,101,Europe,Europe
+2022,MI,FT,GB,GB,M,100,Data Engineer,137,Europe,Europe
+2022,MI,FT,GB,GB,M,100,Data Engineer,120,Europe,Europe
+2022,MI,FT,ES,ES,M,100,Data Engineer,86,Europe,Europe
+2022,MI,FT,GR,GR,M,100,Data Engineer,115,Europe,Europe
+2022,SE,FT,US,US,M,0,Machine Learning Engineer,248,North America,North America
+2022,SE,FT,US,US,M,0,Machine Learning Engineer,216,North America,North America
+2022,MI,FT,GR,GR,M,100,Data Analyst,57,Europe,Europe
+2022,MI,FT,GR,GR,M,100,Data Analyst,43,Europe,Europe
+2022,MI,FT,GB,GB,M,100,Data Engineer,128,Europe,Europe
+2022,MI,FT,GB,GB,M,100,Data Engineer,103,Europe,Europe
+2022,SE,FT,US,US,L,0,Data Scientist,282,North America,North America
+2022,MI,FT,GR,GR,M,100,Data Engineer,101,Europe,Europe
+2022,SE,FT,US,US,L,100,Data Engineer,274,North America,North America
+2022,SE,FT,US,US,L,100,Data Engineer,202,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,236,North America,North America
+2022,EN,FT,PT,PT,L,100,Machine Learning Engineer,28,Europe,Europe
+2022,SE,FT,US,US,M,100,Data Engineer,105,North America,North America
+2022,MI,FT,CA,CA,M,100,Machine Learning Engineer,103,North America,North America
+2022,EX,FT,CA,CA,L,50,Data Scientist,258,North America,North America
+2022,MI,FT,US,US,S,100,Machine Learning Engineer,157,North America,North America
+2022,EN,FT,US,US,M,0,Computer Vision Engineer,164,North America,North America
+2022,MI,FT,US,US,L,50,Machine Learning Engineer,48,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,137,North America,North America
+2022,SE,FT,DE,DE,M,0,Machine Learning Engineer,115,Europe,Europe
+2022,MI,FT,IN,IN,M,100,Data Analyst,24,Asia,Asia
+2022,MI,FT,IN,IN,L,100,Data Scientist,41,Asia,Asia
+2022,MI,FT,PT,PT,L,50,Machine Learning Engineer,76,Europe,Europe
+2022,EN,FT,US,US,L,50,Data Analyst,131,North America,North America
+2022,MI,PT,DE,DE,L,50,Data Engineer,72,Europe,Europe
+2022,EN,FT,IN,IN,M,100,Data Scientist,24,Asia,Asia
+2022,SE,FT,DE,DE,M,100,Data Scientist,213,Europe,Europe
+2022,EN,FT,US,US,M,100,Data Engineer,157,North America,North America
+2022,SE,FT,US,US,L,50,Data Scientist,189,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,137,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,131,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,183,North America,North America
+2022,MI,FT,US,US,M,100,Data Analyst,177,North America,North America
+2022,MI,FT,US,US,M,100,Data Analyst,65,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,288,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,183,North America,North America
+2022,MI,FT,GB,GB,M,0,Data Scientist,240,Europe,Europe
+2022,MI,FT,GB,GB,M,0,Data Scientist,120,Europe,Europe
+2022,SE,FT,US,US,M,100,Data Scientist,243,North America,North America
+2022,SE,FT,US,US,M,100,Machine Learning Engineer,288,North America,North America
+2022,MI,FT,US,US,M,100,Data Scientist,262,North America,North America
+2022,MI,FT,US,US,M,100,Data Scientist,157,North America,North America
+2022,SE,FT,AE,AE,S,100,Machine Learning Engineer,157,Asia,Asia
+2022,SE,FT,AE,AE,S,100,Machine Learning Engineer,85,Asia,Asia
+2022,EX,FT,US,US,M,100,Data Engineer,425,North America,North America
+2022,EX,FT,US,US,M,100,Data Engineer,283,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,275,North America,North America
+2022,SE,FT,US,US,M,100,Machine Learning Engineer,157,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,301,North America,North America
+2022,EN,PT,DZ,DZ,M,50,Data Scientist,131,Africa,Africa
+2022,MI,FL,CA,US,M,100,Data Scientist,131,North America,North America
+2022,EN,CT,TN,CZ,M,100,Machine Learning Engineer,41,Africa,Europe
+2022,MI,FT,CA,CA,S,100,Data Analyst,98,North America,North America
+2022,MI,FT,PL,PL,L,100,Data Scientist,46,Europe,Europe
+2022,SE,FT,CA,CA,M,100,Machine Learning Engineer,103,North America,North America
+2022,SE,FT,BR,US,M,100,Data Scientist,131,South America,North America
+2022,MI,FT,US,US,M,50,Machine Learning Engineer,200,North America,North America
+2022,EN,FT,PK,DE,M,100,Data Engineer,76,Asia,Europe
+2022,SE,FT,US,US,M,100,Data Scientist,216,North America,North America
+2022,SE,FT,FR,FR,L,50,Data Scientist,122,Europe,Europe
+2022,EN,FT,CA,CA,L,100,Data Scientist,68,North America,North America
+2022,SE,FT,NL,NL,L,100,Machine Learning Engineer,82,Europe,Europe
+2022,EN,FT,JP,MY,L,100,Data Scientist,52,Asia,Asia
+2022,MI,FT,AU,AU,L,100,Machine Learning Engineer,114,Oceania,Oceania
+2022,SE,FT,US,US,M,100,Data Engineer,150,North America,North America
+2022,EN,FT,AU,AU,M,50,Data Scientist,113,Oceania,Oceania
+2022,MI,FT,BO,US,L,100,Machine Learning Engineer,98,South America,North America
+2022,MI,FT,AT,AT,L,0,Data Scientist,85,Europe,Europe
+2022,EN,FT,US,US,L,100,Data Scientist,157,North America,North America
+2022,MI,FT,US,US,L,100,Data Scientist,206,North America,North America
+2022,EN,FT,AU,AU,S,100,Computer Vision Engineer,196,Oceania,Oceania
+2022,MI,FT,CA,CA,L,50,Data Analyst,93,North America,North America
+2022,EN,FT,US,US,S,100,Data Engineer,85,North America,North America
+2022,SE,FT,IE,IE,S,100,Machine Learning Engineer,93,Europe,Europe
+2022,EN,FT,PK,PK,M,0,Data Analyst,26,Asia,Asia
+2022,MI,FT,RU,US,S,100,Data Scientist,63,Europe,North America
+2022,SE,FT,US,US,M,100,Data Scientist,200,North America,North America
+2022,MI,FT,FR,FR,M,100,Data Engineer,89,Europe,Europe
+2022,MI,FT,CH,CH,L,0,Data Scientist,160,Europe,Europe
+2022,SE,FT,US,US,L,100,Data Scientist,498,North America,North America
+2022,MI,FT,CA,CA,M,100,Data Scientist,91,North America,North America
+2022,EN,FT,PT,LU,M,100,Computer Vision Engineer,13,Europe,Europe
+2022,MI,FT,GR,GR,S,100,Data Analyst,26,Europe,Europe
+2022,SE,FT,US,US,L,100,Data Analyst,531,North America,North America
+2022,MI,FT,US,US,L,100,Data Scientist,177,North America,North America
+2022,SE,FT,US,US,L,100,Data Scientist,232,North America,North America
+2022,MI,FT,US,US,M,100,Data Scientist,102,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,177,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,131,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,118,North America,North America
+2022,MI,FT,CA,CA,M,0,Data Analyst,111,North America,North America
+2022,MI,FT,CA,CA,M,0,Data Analyst,98,North America,North America
+2022,SE,FT,US,US,M,100,Machine Learning Engineer,280,North America,North America
+2022,SE,FT,US,US,M,100,Machine Learning Engineer,252,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,349,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,279,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,148,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,203,North America,North America
+2022,MI,FT,US,US,M,0,Data Scientist,185,North America,North America
+2022,MI,FT,US,US,M,0,Data Scientist,134,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,152,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,107,North America,North America
+2022,MI,FT,US,US,M,0,Data Engineer,271,North America,North America
+2022,MI,FT,US,US,M,0,Data Engineer,130,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,170,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,150,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,145,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,170,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,130,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,210,North America,North America
+2022,SE,FT,US,US,L,0,Data Scientist,269,North America,North America
+2022,SE,FT,US,US,L,0,Data Scientist,184,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,231,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,189,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,262,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,210,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,190,North America,North America
+2022,SE,FT,US,US,M,0,Data Engineer,92,North America,North America
+2022,SE,FT,US,US,M,0,Data Scientist,269,North America,North America
+2022,SE,FT,US,US,M,0,Data Scientist,184,North America,North America
+2022,SE,FT,US,US,M,0,Data Analyst,269,North America,North America
+2022,SE,FT,US,US,M,0,Data Analyst,242,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,229,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,184,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,152,North America,North America
+2022,SE,FT,US,US,M,0,Data Engineer,70,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,223,North America,North America
+2022,MI,FT,GB,GB,M,0,Data Analyst,85,Europe,Europe
+2022,SE,FT,US,US,M,100,Data Analyst,105,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,183,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,275,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,183,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,131,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,90,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,275,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,183,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,275,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,197,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,131,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,32,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,166,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,139,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,288,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,210,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,137,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,145,North America,North America
+2022,MI,FT,GB,GB,M,0,Data Analyst,60,Europe,Europe
+2022,SE,FT,US,US,M,100,Data Scientist,183,North America,North America
+2022,SE,FT,US,US,M,0,Data Analyst,129,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,78,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,252,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,190,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,301,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,196,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,197,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,143,North America,North America
+2022,SE,FT,US,US,M,100,Data Scientist,275,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,223,North America,North America
+2022,MI,FT,US,US,M,100,Data Scientist,210,North America,North America
+2022,MI,FT,US,US,M,100,Data Scientist,170,North America,North America
+2022,EN,FT,CA,CA,M,0,Data Analyst,87,North America,North America
+2022,EN,FT,CA,CA,M,0,Data Analyst,68,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,202,North America,North America
+2022,SE,FT,US,US,M,100,Data Engineer,165,North America,North America
+2022,SE,FT,US,US,M,0,Data Analyst,169,North America,North America
+2022,SE,FT,US,US,M,100,Data Analyst,196,North America,North America
+2022,MI,FT,IN,US,L,100,Data Scientist,262,Asia,North America
